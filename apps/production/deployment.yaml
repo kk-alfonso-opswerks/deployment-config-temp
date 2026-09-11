@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: flaskapp
-        image: karenopswerks/python-flaskapp:v999.0.nonexistent
+        image: karenopswerks/flask-group-activity:v1.24.cdad241
         ports:
         - containerPort: 5000
