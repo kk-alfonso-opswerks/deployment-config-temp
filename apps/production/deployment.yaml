@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: flaskapp
-        image: karenopswerks/flaskapp-group-activity:v1.8.f751b0f
+        image: karenopswerks/flask-group-activity:v1.8.f751b0f
         ports:
         - containerPort: 5000
