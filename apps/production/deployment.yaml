@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
       - name: flaskapp
-        image: karenopswerks/python-flaskapp:v1.0.initial
+        image: karenopswerks/python-flaskapp:v1.2.37410e7
         ports:
         - containerPort: 5000
